@@ -1,0 +1,28 @@
+2025-05-17 18:18:39.150 | INFO     | __main__:__init__:84 - 语音助手初始化中...
+2025-05-17 18:18:42.577 | INFO     | __main__:__init__:102 - 表情服务器启动成功
+2025-05-17 18:18:42.811 | INFO     | __main__:__init__:120 - Qwen LLM 客户端初始化成功。
+2025-05-17 18:18:42.812 | INFO     | __main__:__init__:126 - 已从配置加载 Qwen system_prompt。
+2025-05-17 18:18:42.813 | INFO     | __main__:__init__:148 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 18:18:42.814 | INFO     | __main__:__init__:153 - 语音助手初始化完成
+2025-05-17 18:18:42.814 | INFO     | __main__:run:518 - 语音助手启动...
+2025-05-17 18:18:42.829 | INFO     | __main__:start_wake_detection:435 - MSPLogin success.
+2025-05-17 18:18:42.876 | INFO     | __main__:start_wake_detection:447 - QIVWSessionBegin success, session_id: civw1P1HHBHY0P0aaHGcVaaH-XCbb0grCTL
+2025-05-17 18:18:42.877 | INFO     | __main__:start_wake_detection:457 - QIVWRegisterNotify success.
+2025-05-17 18:18:43.215 | INFO     | __main__:start_wake_detection:462 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-17 18:18:45.271 | INFO     | __main__:wake_callback:157 - ========================= 检测到唤醒词! =========================
+2025-05-17 18:18:51.682 | INFO     | __main__:start_wake_detection:486 - 唤醒成功，开始监听命令
+2025-05-17 18:18:51.683 | INFO     | __main__:listen_for_command:298 - 开始语音识别...
+2025-05-17 18:18:51.943 | INFO     | __main__:on_asr_open:233 - * 开始录音并发送至ASR...
+2025-05-17 18:18:58.101 | INFO     | __main__:on_asr_message:210 - ASR最终结果: 如何学好英语外语翻译一下教育平台？
+2025-05-17 18:19:04.150 | INFO     | __main__:on_asr_close:220 - ASR WebSocket已关闭.
+2025-05-17 18:19:04.150 | INFO     | __main__:on_asr_close:227 - 最终识别文本: 如何学好英语外语翻译一下教育平台？
+2025-05-17 18:19:04.151 | INFO     | __main__:run:291 - * ASR录音发送结束.
+2025-05-17 18:19:04.152 | INFO     | __main__:process_text:351 - 向LLM发送文本: 如何学好英语外语翻译一下教育平台？
+2025-05-17 18:19:07.785 | INFO     | __main__:process_text:377 - LLM回复: 你好，我是你的AI助手小佰。学好英语翻译在教育平台可从以下几方面入手：一是利用平台的系统课程，从基础词汇、语法到高级翻译技巧逐步学习；二是多参与平台上的实践练习，比如文档互译等；三是积极使用平台提供的交流机会，与他人探讨翻译中的难题。对于“教育平台”的翻译是"Educational platform"。
+2025-05-17 18:19:07.786 | INFO     | __main__:start_interrupt_listener:409 - 启动中断监听线程
+2025-05-17 18:19:17.251 | INFO     | __main__:wake_callback:157 - ========================= 检测到唤醒词! =========================
+2025-05-17 18:19:17.252 | INFO     | __main__:wake_callback:164 - 检测到中断唤醒词，停止当前播放
+2025-05-17 18:19:22.820 | INFO     | __main__:wake_callback:157 - ========================= 检测到唤醒词! =========================
+2025-05-17 18:19:22.821 | INFO     | __main__:wake_callback:164 - 检测到中断唤醒词，停止当前播放
+2025-05-17 18:19:34.937 | INFO     | __main__:process_text:392 - TTS播放被中断
+2025-05-17 18:19:34.938 | INFO     | __main__:return_to_standby:424 - 已重置状态，返回待机

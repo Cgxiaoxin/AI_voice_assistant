@@ -1,0 +1,6 @@
+2025-03-25 15:03:27.600 | INFO     | __main__:load_keywords_dict:162 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-03-25 15:03:31.537 | INFO     | __main__:_init_expression_server:148 - 表情服务器启动成功
+2025-03-25 15:03:31.537 | INFO     | __main__:run_modbus_server:201 - Modbus 从机正在 192.168.1.125:599 上监听...
+2025-03-25 15:03:32.553 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-25 15:03:33.553 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-25 15:03:34.553 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

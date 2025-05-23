@@ -1,0 +1,4 @@
+2025-05-16 16:08:04.089 | INFO     | __main__:load_keywords_dict:137 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-05-16 16:08:04.598 | INFO     | __main__:__init__:102 - Qwen LLM 客户端初始化成功。
+2025-05-16 16:08:04.602 | INFO     | __main__:__init__:107 - 已从配置加载 Qwen system_prompt。
+2025-05-16 16:08:04.602 | INFO     | __main__:__init__:121 - 讯飞唤醒引擎回调设置完毕。

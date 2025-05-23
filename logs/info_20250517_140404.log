@@ -1,0 +1,15 @@
+2025-05-17 14:04:04.956 | INFO     | new_all:load_keywords_dict:137 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-05-17 14:04:05.378 | INFO     | new_all:__init__:102 - Qwen LLM 客户端初始化成功。
+2025-05-17 14:04:05.379 | INFO     | new_all:__init__:107 - 已从配置加载 Qwen system_prompt。
+2025-05-17 14:04:05.974 | INFO     | new_all:__init__:121 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 14:04:05.976 | INFO     | new_all:_init_expression_server:129 - 表情服务器启动成功
+2025-05-17 14:04:16.975 | INFO     | new_all:start_wake_detection:178 - MSPLogin success.
+2025-05-17 14:04:17.023 | INFO     | new_all:start_wake_detection:189 - QIVWSessionBegin success, session_id: civw1P1HHBHY0acAHtVTOaa0k4HAUarqC6l
+2025-05-17 14:04:17.023 | INFO     | new_all:start_wake_detection:198 - QIVWRegisterNotify success.
+2025-05-17 14:04:17.314 | INFO     | new_all:start_wake_detection:202 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-17 14:10:17.816 | INFO     | new_all:start_wake_detection:216 - PyAudio stream closed.
+2025-05-17 14:10:17.818 | INFO     | new_all:start_wake_detection:220 - QIVWSessionEnd success.
+2025-05-17 14:10:17.818 | INFO     | new_all:start_speech_recognition:233 - 开始语音识别...
+2025-05-17 14:10:18.286 | INFO     | new_all:run:288 - * 开始录音并发送至ASR...
+2025-05-17 14:10:24.359 | INFO     | new_all:run:301 - * ASR录音发送结束.
+2025-05-17 14:10:40.721 | INFO     | new_all:start_wake_detection:229 - MSPLogout success during cleanup.

@@ -1,0 +1,8 @@
+pyaudio
+loguru
+websocket-client # 用于WebSocket连接，通常是这个包
+PyYAML # 用于处理YAML配置文件
+pymodbus
+openai # 用于与兼容OpenAI API的模型交互
+websockets # 用于WebSocket服务器，例如 ExpressionServer
+jieba # 中文分词库

@@ -1,0 +1,131 @@
+2025-04-15 16:45:14.791 | INFO     | __main__:load_keywords_dict:162 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-04-15 16:45:17.973 | INFO     | __main__:_init_expression_server:148 - 表情服务器启动成功
+2025-04-15 16:45:17.973 | INFO     | __main__:run_modbus_server:201 - Modbus 从机正在 192.168.1.125:599 上监听...
+2025-04-15 16:45:18.977 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:19.982 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:21.003 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:22.010 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:23.015 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:24.021 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:25.029 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:26.035 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:27.040 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:28.047 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:29.053 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:30.061 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:31.065 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:32.071 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:33.077 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:34.083 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:35.089 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:36.093 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:37.100 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:38.107 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:39.092 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:40.104 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:41.112 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:42.136 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:43.144 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:44.151 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:45.159 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:46.165 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:47.169 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:48.177 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:49.183 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:50.192 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:51.198 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:52.206 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:53.213 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:54.221 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:55.217 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:56.232 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:57.239 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:58.245 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:45:59.237 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:00.244 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:01.233 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:02.238 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:03.245 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:04.252 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:05.257 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:06.265 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:184 - 当前保持寄存器数据: [111, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:186 - 切换表情：眨眼
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:188 - 保持寄存器读到111
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:189 - 当前保持寄存器数据: [111, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:191 - 开始清零
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:192 - 当前保持寄存器数据: [111, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:194 - 当前保持寄存器数据: [111, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-04-15 16:46:07.288 | INFO     | __main__:request_monitor:195 - 检测到寄存器值为 111，准备退出...
+2025-04-15 16:46:07.368 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:07.383 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:08.452 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:08.500 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:09.554 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:09.599 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:10.655 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:10.706 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:11.771 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:11.819 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:12.890 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:12.938 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:14.007 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:14.071 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:15.123 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:15.154 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:16.225 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:16.262 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:17.326 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:17.374 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:18.404 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:18.413 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:19.484 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:19.534 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:20.585 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:20.633 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:21.702 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:21.749 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:22.804 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:22.842 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:23.905 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:23.937 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:25.006 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:25.029 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:26.108 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:26.140 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:27.208 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:27.224 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:28.279 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:28.295 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:29.381 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:29.397 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:30.423 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:30.516 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:31.618 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:31.634 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:32.686 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:32.706 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:33.760 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:33.797 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:34.877 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:34.909 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:35.979 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:35.998 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:37.064 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:37.086 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:38.150 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:38.186 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:39.236 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:39.268 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:40.337 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:40.375 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:41.454 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:41.487 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:42.541 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:42.592 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:43.674 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:43.706 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:44.761 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:44.793 | INFO     | __main__:main:580 - 继续监听唤醒词...
+2025-04-15 16:46:45.843 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9996] Invalid input device (no default output device)
+2025-04-15 16:46:45.880 | INFO     | __main__:main:580 - 继续监听唤醒词...

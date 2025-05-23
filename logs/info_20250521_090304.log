@@ -1,0 +1,33 @@
+2025-05-21 09:03:04.028 | INFO     | __main__:__init__:84 - 语音助手初始化中...
+2025-05-21 09:03:07.357 | INFO     | __main__:__init__:102 - 表情服务器启动成功
+2025-05-21 09:03:07.579 | INFO     | __main__:__init__:120 - Qwen LLM 客户端初始化成功。
+2025-05-21 09:03:07.579 | INFO     | __main__:__init__:126 - 已从配置加载 Qwen system_prompt。
+2025-05-21 09:03:07.581 | INFO     | __main__:__init__:148 - 讯飞唤醒引擎回调设置完毕。
+2025-05-21 09:03:07.582 | INFO     | __main__:__init__:153 - 语音助手初始化完成
+2025-05-21 09:03:07.582 | INFO     | __main__:run:513 - 语音助手启动...
+2025-05-21 09:03:07.594 | INFO     | __main__:start_wake_detection:435 - MSPLogin success.
+2025-05-21 09:03:07.645 | INFO     | __main__:start_wake_detection:447 - QIVWSessionBegin success, session_id: civw1PdHHBHYCneC0gfzaatlXlRcWCFwLe
+2025-05-21 09:03:07.645 | INFO     | __main__:start_wake_detection:457 - QIVWRegisterNotify success.
+2025-05-21 09:03:07.796 | INFO     | __main__:start_wake_detection:462 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-21 09:12:39.766 | INFO     | __main__:wake_callback:157 - ========================= 检测到唤醒词! =========================
+2025-05-21 09:12:46.234 | INFO     | __main__:start_wake_detection:481 - 唤醒成功，开始监听命令
+2025-05-21 09:12:46.234 | INFO     | __main__:listen_for_command:298 - 开始语音识别...
+2025-05-21 09:12:46.383 | INFO     | __main__:on_asr_open:233 - * 开始录音并发送至ASR...
+2025-05-21 09:12:51.676 | INFO     | __main__:on_asr_message:210 - ASR最终结果: 今天天气如何？
+2025-05-21 09:12:52.354 | INFO     | __main__:wake_callback:157 - ========================= 检测到唤醒词! =========================
+2025-05-21 09:12:58.457 | INFO     | __main__:on_asr_close:220 - ASR WebSocket已关闭.
+2025-05-21 09:12:58.457 | INFO     | __main__:run:291 - * ASR录音发送结束.
+2025-05-21 09:12:58.457 | INFO     | __main__:on_asr_close:227 - 最终识别文本: 今天天气如何？
+2025-05-21 09:12:58.459 | INFO     | __main__:process_text:351 - 向LLM发送文本: 今天天气如何？
+2025-05-21 09:12:58.675 | INFO     | __main__:start_wake_detection:481 - 唤醒成功，开始监听命令
+2025-05-21 09:12:58.676 | INFO     | __main__:listen_for_command:298 - 开始语音识别...
+2025-05-21 09:12:58.815 | INFO     | __main__:on_asr_open:233 - * 开始录音并发送至ASR...
+2025-05-21 09:13:04.888 | INFO     | __main__:on_asr_message:210 - ASR最终结果: 这个是还是然后看一下。
+2025-05-21 09:13:10.892 | INFO     | __main__:on_asr_close:220 - ASR WebSocket已关闭.
+2025-05-21 09:13:10.893 | INFO     | __main__:run:291 - * ASR录音发送结束.
+2025-05-21 09:13:10.893 | INFO     | __main__:on_asr_close:227 - 最终识别文本: 这个是还是然后看一下。
+2025-05-21 09:13:10.894 | ERROR    | __main__:on_asr_error:216 - ASR WebSocket错误: Event loop is closed
+2025-05-21 09:13:24.063 | INFO     | __main__:wake_callback:157 - ========================= 检测到唤醒词! =========================
+2025-05-21 09:13:30.381 | INFO     | __main__:start_wake_detection:481 - 唤醒成功，开始监听命令
+2025-05-21 09:13:30.381 | INFO     | __main__:listen_for_command:298 - 开始语音识别...
+2025-05-21 09:13:30.521 | INFO     | __main__:on_asr_open:233 - * 开始录音并发送至ASR...

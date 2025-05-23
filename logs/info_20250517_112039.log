@@ -1,0 +1,5 @@
+2025-05-17 11:20:39.610 | INFO     | new_all:load_keywords_dict:137 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-05-17 11:20:39.797 | INFO     | new_all:__init__:102 - Qwen LLM 客户端初始化成功。
+2025-05-17 11:20:39.798 | INFO     | new_all:__init__:107 - 已从配置加载 Qwen system_prompt。
+2025-05-17 11:20:39.799 | INFO     | new_all:__init__:121 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 11:20:39.800 | INFO     | new_all:_init_expression_server:129 - 表情服务器启动成功

@@ -1,0 +1,9 @@
+2025-05-17 15:33:09.412 | INFO     | new_all:load_keywords_dict:137 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-05-17 15:33:09.793 | INFO     | new_all:__init__:102 - Qwen LLM 客户端初始化成功。
+2025-05-17 15:33:09.794 | INFO     | new_all:__init__:107 - 已从配置加载 Qwen system_prompt。
+2025-05-17 15:33:10.211 | INFO     | new_all:__init__:121 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 15:33:10.212 | INFO     | new_all:_init_expression_server:129 - 表情服务器启动成功
+2025-05-17 15:33:21.437 | INFO     | new_all:start_wake_detection:178 - MSPLogin success.
+2025-05-17 15:33:21.533 | INFO     | new_all:start_wake_detection:189 - QIVWSessionBegin success, session_id: civw1P1HHBHY0wQHHTP5+aaleo0a4u9PtKP
+2025-05-17 15:33:21.533 | INFO     | new_all:start_wake_detection:198 - QIVWRegisterNotify success.
+2025-05-17 15:33:21.822 | INFO     | new_all:start_wake_detection:202 - 开始监听唤醒词 (PyAudio stream opened)...

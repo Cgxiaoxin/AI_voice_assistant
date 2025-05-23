@@ -1,0 +1,11 @@
+2025-03-21 14:18:27.556 | INFO     | __main__:load_keywords_dict:162 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-03-21 14:18:30.032 | INFO     | __main__:_init_expression_server:148 - 表情服务器启动成功
+2025-03-21 14:18:30.032 | INFO     | __main__:run_modbus_server:198 - Modbus 从机正在 192.168.1.138:599 上监听...
+2025-03-21 14:18:31.041 | INFO     | __main__:request_monitor:181 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-21 14:18:32.049 | INFO     | __main__:request_monitor:181 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-21 14:18:33.055 | INFO     | __main__:request_monitor:181 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-21 14:18:34.066 | INFO     | __main__:request_monitor:181 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-21 14:18:35.068 | INFO     | __main__:request_monitor:181 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-21 14:18:36.069 | INFO     | __main__:request_monitor:181 - 当前保持寄存器数据: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+2025-03-21 14:18:37.085 | INFO     | __main__:run_modbus_server:215 - Modbus服务器任务被取消
+2025-03-21 14:18:37.414 | INFO     | __main__:start_wake_detection:266 - 开始监听唤醒词...

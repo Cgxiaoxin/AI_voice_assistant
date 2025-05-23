@@ -1,0 +1,2 @@
+2025-05-17 15:36:57.500 | ERROR    | new_all:handle_general_conversation:433 - 调用通用对话模型失败: Connection error.
+2025-05-17 15:37:13.923 | ERROR    | new_all:handle_general_conversation:433 - 调用通用对话模型失败: Connection error.

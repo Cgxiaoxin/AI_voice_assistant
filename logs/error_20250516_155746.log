@@ -1,0 +1,1 @@
+2025-05-16 15:57:51.007 | ERROR    | __main__:run_modbus_server:169 - Modbus服务器运行失败: __init__() got an unexpected keyword argument 'VendorName'

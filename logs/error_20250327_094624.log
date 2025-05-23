@@ -1,0 +1,2 @@
+2025-03-27 09:47:06.992 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9999] Unanticipated host error
+2025-03-27 09:48:32.221 | ERROR    | __main__:start_wake_detection:288 - 唤醒检测错误: [Errno -9999] Unanticipated host error

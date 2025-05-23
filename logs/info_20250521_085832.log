@@ -1,0 +1,11 @@
+2025-05-21 08:58:32.963 | INFO     | __main__:__init__:84 - 语音助手初始化中...
+2025-05-21 08:58:36.559 | INFO     | __main__:__init__:102 - 表情服务器启动成功
+2025-05-21 08:58:37.204 | INFO     | __main__:__init__:120 - Qwen LLM 客户端初始化成功。
+2025-05-21 08:58:37.205 | INFO     | __main__:__init__:126 - 已从配置加载 Qwen system_prompt。
+2025-05-21 08:58:37.801 | INFO     | __main__:__init__:148 - 讯飞唤醒引擎回调设置完毕。
+2025-05-21 08:58:37.801 | INFO     | __main__:__init__:153 - 语音助手初始化完成
+2025-05-21 08:58:37.801 | INFO     | __main__:run:518 - 语音助手启动...
+2025-05-21 08:58:37.812 | INFO     | __main__:start_wake_detection:435 - MSPLogin success.
+2025-05-21 08:58:37.846 | INFO     | __main__:start_wake_detection:447 - QIVWSessionBegin success, session_id: civw1PdHHBHYCnrhW8GIaamPDPlMumXlQY
+2025-05-21 08:58:37.846 | INFO     | __main__:start_wake_detection:457 - QIVWRegisterNotify success.
+2025-05-21 08:58:38.208 | INFO     | __main__:start_wake_detection:462 - 开始监听唤醒词 (PyAudio stream opened)...

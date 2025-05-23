@@ -1,0 +1,22 @@
+2025-05-17 15:35:01.577 | INFO     | new_all:load_keywords_dict:137 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-05-17 15:35:01.964 | INFO     | new_all:__init__:102 - Qwen LLM 客户端初始化成功。
+2025-05-17 15:35:01.964 | INFO     | new_all:__init__:107 - 已从配置加载 Qwen system_prompt。
+2025-05-17 15:35:01.965 | INFO     | new_all:__init__:121 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 15:35:01.965 | INFO     | new_all:_init_expression_server:129 - 表情服务器启动成功
+2025-05-17 15:35:12.927 | INFO     | new_all:start_wake_detection:178 - MSPLogin success.
+2025-05-17 15:35:12.963 | INFO     | new_all:start_wake_detection:189 - QIVWSessionBegin success, session_id: civw1P1HHBHY0wiiHTJjYaakYgBPL5PakCO
+2025-05-17 15:35:12.964 | INFO     | new_all:start_wake_detection:198 - QIVWRegisterNotify success.
+2025-05-17 15:35:13.261 | INFO     | new_all:start_wake_detection:202 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-17 15:35:15.811 | INFO     | new_all:start_wake_detection:216 - PyAudio stream closed.
+2025-05-17 15:35:15.812 | INFO     | new_all:start_wake_detection:220 - QIVWSessionEnd success.
+2025-05-17 15:35:15.813 | INFO     | new_all:start_speech_recognition:233 - 开始语音识别...
+2025-05-17 15:35:16.021 | INFO     | new_all:run:288 - * 开始录音并发送至ASR...
+2025-05-17 15:35:22.100 | INFO     | new_all:run:301 - * ASR录音发送结束.
+2025-05-17 15:35:38.537 | INFO     | new_all:start_wake_detection:229 - MSPLogout success during cleanup.
+2025-05-17 15:35:41.266 | INFO     | new_all:start_speech_recognition:233 - 开始语音识别...
+2025-05-17 15:35:41.464 | INFO     | new_all:run:288 - * 开始录音并发送至ASR...
+2025-05-17 15:35:47.531 | INFO     | new_all:run:301 - * ASR录音发送结束.
+2025-05-17 15:36:03.950 | INFO     | new_all:start_wake_detection:178 - MSPLogin success.
+2025-05-17 15:36:03.987 | INFO     | new_all:start_wake_detection:189 - QIVWSessionBegin success, session_id: civw1P1HHBHY0w3oHTVz6aatAbwcgdne0WO
+2025-05-17 15:36:03.988 | INFO     | new_all:start_wake_detection:198 - QIVWRegisterNotify success.
+2025-05-17 15:36:04.286 | INFO     | new_all:start_wake_detection:202 - 开始监听唤醒词 (PyAudio stream opened)...

@@ -1,0 +1,30 @@
+2025-05-17 12:00:12.711 | INFO     | new_all:load_keywords_dict:137 - 成功加载关键词词典: ./keywords_dicts\keywords_dict.yaml
+2025-05-17 12:00:12.866 | INFO     | new_all:__init__:102 - Qwen LLM 客户端初始化成功。
+2025-05-17 12:00:12.866 | INFO     | new_all:__init__:107 - 已从配置加载 Qwen system_prompt。
+2025-05-17 12:00:12.867 | INFO     | new_all:__init__:121 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 12:00:12.868 | INFO     | new_all:_init_expression_server:129 - 表情服务器启动成功
+2025-05-17 12:00:23.625 | INFO     | new_all:start_wake_detection:178 - MSPLogin success.
+2025-05-17 12:00:23.671 | INFO     | new_all:start_wake_detection:189 - QIVWSessionBegin success, session_id: civw1PdHHBHY0mOyFbFbaa1frlmi5VXuBH
+2025-05-17 12:00:23.671 | INFO     | new_all:start_wake_detection:198 - QIVWRegisterNotify success.
+2025-05-17 12:00:23.757 | INFO     | new_all:start_wake_detection:202 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-17 12:00:25.326 | INFO     | new_all:start_wake_detection:216 - PyAudio stream closed.
+2025-05-17 12:00:25.328 | INFO     | new_all:start_wake_detection:220 - QIVWSessionEnd success.
+2025-05-17 12:00:25.328 | INFO     | new_all:start_speech_recognition:233 - 开始语音识别...
+2025-05-17 12:00:25.540 | INFO     | new_all:run:288 - * 开始录音并发送至ASR...
+2025-05-17 12:00:31.589 | INFO     | new_all:run:301 - * ASR录音发送结束.
+2025-05-17 12:00:47.874 | INFO     | new_all:start_wake_detection:229 - MSPLogout success during cleanup.
+2025-05-17 12:00:50.436 | INFO     | new_all:start_speech_recognition:233 - 开始语音识别...
+2025-05-17 12:00:50.620 | INFO     | new_all:run:288 - * 开始录音并发送至ASR...
+2025-05-17 12:00:56.685 | INFO     | new_all:run:301 - * ASR录音发送结束.
+2025-05-17 12:00:56.686 | INFO     | new_all:handle_general_conversation:414 - 向通用对话模型发送: 今天天气怎么样？
+2025-05-17 12:00:59.771 | INFO     | new_all:handle_general_conversation:428 - 通用对话模型回复: 你好，我是一个专注于知识和工业领域的A I助手，无法实时获取天气信息。如果你想了解天气，可以告诉我具体城市，我给你一些常见的气候特点哦！或者你也可以查看当地的天气预报。有什么其他问题需要帮忙吗？
+2025-05-17 12:01:23.534 | INFO     | new_all:start_wake_detection:178 - MSPLogin success.
+2025-05-17 12:01:23.571 | INFO     | new_all:start_wake_detection:189 - QIVWSessionBegin success, session_id: civw1PdHHBHY0mYMFIMNaamYbCYKkjXuLA
+2025-05-17 12:01:23.572 | INFO     | new_all:start_wake_detection:198 - QIVWRegisterNotify success.
+2025-05-17 12:01:23.675 | INFO     | new_all:start_wake_detection:202 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-17 12:01:35.037 | INFO     | new_all:start_wake_detection:216 - PyAudio stream closed.
+2025-05-17 12:01:35.039 | INFO     | new_all:start_wake_detection:220 - QIVWSessionEnd success.
+2025-05-17 12:01:35.039 | INFO     | new_all:start_speech_recognition:233 - 开始语音识别...
+2025-05-17 12:01:35.338 | INFO     | new_all:run:288 - * 开始录音并发送至ASR...
+2025-05-17 12:01:41.399 | INFO     | new_all:run:301 - * ASR录音发送结束.
+2025-05-17 12:01:57.668 | INFO     | new_all:start_wake_detection:229 - MSPLogout success during cleanup.

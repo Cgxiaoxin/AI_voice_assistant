@@ -1,0 +1,19 @@
+2025-05-17 18:11:39.089 | INFO     | __main__:__init__:83 - 语音助手初始化中...
+2025-05-17 18:11:42.301 | INFO     | __main__:__init__:101 - 表情服务器启动成功
+2025-05-17 18:11:42.894 | INFO     | __main__:__init__:119 - Qwen LLM 客户端初始化成功。
+2025-05-17 18:11:42.895 | INFO     | __main__:__init__:125 - 已从配置加载 Qwen system_prompt。
+2025-05-17 18:11:42.896 | INFO     | __main__:__init__:147 - 讯飞唤醒引擎回调设置完毕。
+2025-05-17 18:11:42.897 | INFO     | __main__:__init__:152 - 语音助手初始化完成
+2025-05-17 18:11:42.897 | INFO     | __main__:run:499 - 语音助手启动...
+2025-05-17 18:11:42.909 | INFO     | __main__:start_wake_detection:416 - MSPLogin success.
+2025-05-17 18:11:42.943 | INFO     | __main__:start_wake_detection:428 - QIVWSessionBegin success, session_id: civw1P1HHBHY0Pwxam-zcaaWP9Hmmk501nv
+2025-05-17 18:11:42.943 | INFO     | __main__:start_wake_detection:438 - QIVWRegisterNotify success.
+2025-05-17 18:11:43.318 | INFO     | __main__:start_wake_detection:443 - 开始监听唤醒词 (PyAudio stream opened)...
+2025-05-17 18:11:47.424 | INFO     | __main__:wake_callback:156 - ========================= 检测到唤醒词! =========================
+2025-05-17 18:11:50.813 | INFO     | __main__:start_wake_detection:467 - 唤醒成功，开始监听命令
+2025-05-17 18:11:50.814 | INFO     | __main__:listen_for_command:297 - 开始语音识别...
+2025-05-17 18:11:50.957 | INFO     | __main__:on_asr_open:232 - * 开始录音并发送至ASR...
+2025-05-17 18:11:56.959 | INFO     | __main__:on_asr_message:209 - ASR最终结果:  Um如何做鸡蛋炒饭？
+2025-05-17 18:12:03.014 | INFO     | __main__:on_asr_close:219 - ASR WebSocket已关闭.
+2025-05-17 18:12:03.014 | INFO     | __main__:run:290 - * ASR录音发送结束.
+2025-05-17 18:12:03.016 | INFO     | __main__:on_asr_close:226 - 最终识别文本: Um如何做鸡蛋炒饭？

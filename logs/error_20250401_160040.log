@@ -1,0 +1,1 @@
+2025-04-01 16:07:15.492 | ERROR    | __main__:on_message:373 - 错误码：10008，错误信息：{'code': 10008, 'message': 'service instance invalid', 'sid': 'iat000eb34c@dx195f06381f1a13b802'}
