@@ -31,8 +31,8 @@ from change_state import ExpressionServer
 
 # 科大讯飞配置
 APPID = "74fa666f"
-APIKey = "1117d16429339b497550a24efbacfc44"
-APISecret = "YjBkMzc3NWU3NjYwZmY2MWNjMWY2YTc0"
+APIKey = ""
+APISecret = ""
 
 # 音频录制参数
 CHUNK = 1024

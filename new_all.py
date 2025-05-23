@@ -37,8 +37,8 @@ CONFIG_PATH = "config/key.yaml"
 
 # 科大讯飞配置 (ASR/IVW)
 XF_APPID = "74fa666f"
-XF_APIKey = "1117d16429339b497550a24efbacfc44"
-XF_APISecret = "YjBkMzc3NWU3NjYwZmY2MWNjMWY2YTc0"
+XF_APIKey = ""
+XF_APISecret = ""
 
 # 音频录制参数
 CHUNK = 1024

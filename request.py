@@ -20,7 +20,7 @@ import pyaudio
 
 # 科大讯飞配置
 APPID = "cc42f548"
-APIKey = "1b108cbabd9f18403df29e2db2d87795"
+APIKey = ""
 APISecret = "MTg3ZDc4OWViZDQwNmY3N2I3NjA4ZmMx"
 
 def create_url():
